@@ -1,0 +1,63 @@
+{
+  "source_title": "论语（示例）",
+  "source_sentences": [
+    "学而时习之，不亦说乎？",
+    "有朋自远方来，不亦乐乎？",
+    "人不知而不愠，不亦君子乎？",
+    "君子喻于义，小人喻于利。",
+    "仁者安仁，知者利仁。"
+  ],
+  "translations": [
+    {
+      "id": "legge_1861",
+      "translator": "James Legge",
+      "year": 1861,
+      "mentor": "",
+      "influenced_by": [],
+      "sentences": [
+        "Is it not pleasant to learn with constant practice?",
+        "Is it not delightful to have friends coming from distant quarters?",
+        "Is he not a superior man, who feels no discomposure though men may take no note of him?",
+        "The superior man understands righteousness; the mean man understands profit.",
+        "The man of perfect virtue rests in benevolence, and the wise value benevolence."
+      ]
+    },
+    {
+      "id": "ku_huang_1998",
+      "translator": "Ku Hung-ming",
+      "year": 1898,
+      "mentor": "",
+      "influenced_by": [
+        "James Legge"
+      ],
+      "sentences": [
+        "To learn and at due times repeat what one has learnt, is that not after all a pleasure?",
+        "To have friends come from afar, is that not a joy?",
+        "To remain unvexed when others do not know you, is that not the mark of a gentleman?",
+        "A gentleman understands duty; a small man understands gain.",
+        "The humane man is at home in humanity, and the wise profit by humanity."
+      ]
+    },
+    {
+      "id": "lau_1979",
+      "translator": "D. C. Lau",
+      "year": 1979,
+      "mentor": "",
+      "influenced_by": [
+        "James Legge",
+        "Ku Hung-ming"
+      ],
+      "sentences": [
+        "To learn and to practise what is learned from time to time, is this not a pleasure?",
+        "To have friends come from afar, is this not a joy?",
+        "To remain unsoured even though others do not recognize you, is this not to be a gentleman?",
+        "The gentleman understands what is right; the petty man understands profit.",
+        "The benevolent man finds peace in benevolence; the wise make use of benevolence."
+      ]
+    }
+  ],
+  "core_terms": [
+    "仁",
+    "义"
+  ]
+}
